@@ -100,3 +100,5 @@ setInterval(function () {
     alert("Opps.. An unexpected error has occurred!");
   }
 }, 1000);
+
+onsole.clear()
