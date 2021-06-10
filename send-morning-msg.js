@@ -101,4 +101,4 @@ setInterval(function () {
   }
 }, 1000);
 
-onsole.clear()
+console.clear()
